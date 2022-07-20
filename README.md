@@ -1,2 +1,2 @@
-# test1
-a test
+# test
+print("Hello")
